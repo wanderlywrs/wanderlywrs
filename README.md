@@ -42,24 +42,7 @@ Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e R
 
 ---
 
-## ✨ Dicas e recursos úteis
-
-📝 [Como usar o Git da forma certa](#)  
-🧪 [Checklist antes do deploy](#)  
-🚀 [Links úteis para devs iniciantes](#)
-
-_(Em breve mais posts e dicas!)_
-
----
-
 ## 📌 Projetos em Destaque
-
-🔹 [**Portfólio Profissional**](#) – Layout moderno, responsivo e acessível  
-🔹 [**Clone de Página**](#) – Página fiel ao design original, usando HTML e CSS puro  
-🔹 [**To-Do List React**](#) – Lista de tarefas com localStorage e hooks do React  
-🔹 [**Landing Page Naruto**](#) – Projeto temático focado em design e organização de conteúdo
-
-_(Mais projetos em breve!)_
 
 ---
 
@@ -71,9 +54,5 @@ _(Mais projetos em breve!)_
 
 ---
 
-## 🐍 Meus Commits Recentes
-
-> ⚠️ **Certifique-se de que o workflow Snake está funcionando corretamente!**
-
-```md
-![snake gif](https://raw.githubusercontent.com/wanderlywrs/wanderlywrs/output/github-contribution-grid-snake.svg)
+##  Meus Commits Recentes
+![Commit Progression](https://github-readme-streak-stats.herokuapp.com/?user=wanderlywrs&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)
