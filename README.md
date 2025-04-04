@@ -43,7 +43,7 @@ Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e R
 ---
 
 ## 📌 Projetos em Destaque
-![GitHub Streak](https://streak-stats.demolab.com?user=wanderlywrs&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=5C7AEA&fire=E94560&currStreakLabel=E94560)
+
 
 ---
 
@@ -55,3 +55,6 @@ Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e R
 
 
 ---
+
+### 🧠 Contribuições Recentes
+![GitHub Streak](https://streak-stats.demolab.com?user=wanderlywrs&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=5C7AEA&fire=E94560&currStreakLabel=E94560)
