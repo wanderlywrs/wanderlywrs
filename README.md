@@ -1,12 +1,6 @@
 # 👋 Olá, eu sou o Wanderly!
 
-Sou um **desenvolvedor front-end** em transição de carreira, focado em criar interfaces modernas, acessíveis e responsivas.  
-Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e React.js**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento web.
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=wanderlywrs&color=blue)
-![Status](https://img.shields.io/badge/Dev-Focused-blue)
+Sou um **desenvolvedor front-end** focado em criar interfaces modernas e responsivas. Atualmente, estou aprimorando minhas habilidades em **JavaScript, React.js, HTML5 e CSS3**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento web.
 
 ---
 
@@ -21,40 +15,40 @@ Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e R
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📚 Atualmente estudando
-
-- Práticas avançadas com HTML5 e CSS3
-- Flexbox, Grid e responsividade
-- JavaScript moderno (ES6+)
-- React JS e componentização
-- Git e GitHub para versionamento
-
----
-
-## 🎯 Metas de 2025
-
-- [x] Finalizar portfólio profissional
-- [x] Criar LinkedIn atrativo
-- [ ] Fazer deploy de 5 projetos
-- [ ] Conquistar minha primeira vaga como Front-End Developer 🚀
-- [ ] Aprofundar em TypeScript e frameworks modernos
+## 🚀 Tecnologias mais usadas  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
+## 📊 Estatísticas do GitHub  
+![Wanderly's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
 
 ---
 
 ## 📌 Projetos em Destaque
 
+🔹 [**Projeto 1**](#) – Pequena descrição do projeto.
+
+🔹 [**Projeto 2**](#) – Pequena descrição do projeto.
+
+🔹 [**Projeto 3**](#) – Pequena descrição do projeto.
+
+_(Em breve mais projetos!)_
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎓 Certificados
 
-![Wanderly's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
+🎖️ [**Certificado 1**](#) – Pequena descrição do certificado.
 
+🎖️ [**Certificado 2**](#) – Pequena descrição do certificado.
 
+🎖️ [**Certificado 3**](#) – Pequena descrição do certificado.
 
 ---
 
-### 🧠 Contribuições Recentes
-![GitHub Streak](https://streak-stats.demolab.com?user=wanderlywrs&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=5C7AEA&fire=E94560&currStreakLabel=E94560)
+## 🚀 Me encontre por aí  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wanderlywrs)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
+
+---
+
+✨ Sempre aprendendo e evoluindo no mundo do desenvolvimento web!
