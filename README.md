@@ -55,4 +55,4 @@ Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e R
 ---
 
 ##  Meus Commits Recentes
-![Commit Progression](https://github-readme-streak-stats.herokuapp.com/?user=wanderlywrs&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)
+
