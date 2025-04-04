@@ -18,15 +18,10 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas e respons
 
 ## 📊 Estatísticas do GitHub  
 
-<div align="center">
+<div align="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical"/>
 </div>
-
----
-
-## 🐍 Meus Commits  
-![snake gif](https://raw.githubusercontent.com/wanderlywrs/wanderlywrs/output/dist/github-snake.svg)
 
 ---
 
