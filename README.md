@@ -1,6 +1,12 @@
 # 👋 Olá, eu sou o Wanderly!
 
-Sou um **desenvolvedor front-end** focado em criar interfaces modernas e responsivas. Atualmente, estou aprimorando minhas habilidades em **JavaScript, React.js, HTML5 e CSS3**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento web.
+Sou um **desenvolvedor front-end** em transição de carreira, focado em criar interfaces modernas, acessíveis e responsivas.  
+Atualmente estou aprimorando minhas habilidades em **HTML5, CSS3, JavaScript e React.js**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento web.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=wanderlywrs&color=blue)
+![Status](https://img.shields.io/badge/Dev-Focused-blue)
 
 ---
 
@@ -16,32 +22,58 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas e respons
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📚 Atualmente estudando
 
-<div align="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical"/>
-</div>
+- Práticas avançadas com HTML5 e CSS3
+- Flexbox, Grid e responsividade
+- JavaScript moderno (ES6+)
+- React JS e componentização
+- Git e GitHub para versionamento
+
+---
+
+## 🎯 Metas de 2025
+
+- [x] Finalizar portfólio profissional
+- [x] Criar LinkedIn atrativo
+- [ ] Fazer deploy de 5 projetos
+- [ ] Conquistar minha primeira vaga como Front-End Developer 🚀
+- [ ] Aprofundar em TypeScript e frameworks modernos
+
+---
+
+## ✨ Dicas e recursos úteis
+
+📝 [Como usar o Git da forma certa](#)  
+🧪 [Checklist antes do deploy](#)  
+🚀 [Links úteis para devs iniciantes](#)
+
+_(Em breve mais posts e dicas!)_
 
 ---
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Projeto 1**](#) – Pequena descrição do projeto.
+🔹 [**Portfólio Profissional**](#) – Layout moderno, responsivo e acessível  
+🔹 [**Clone de Página**](#) – Página fiel ao design original, usando HTML e CSS puro  
+🔹 [**To-Do List React**](#) – Lista de tarefas com localStorage e hooks do React  
+🔹 [**Landing Page Naruto**](#) – Projeto temático focado em design e organização de conteúdo
 
-🔹 [**Projeto 2**](#) – Pequena descrição do projeto.
-
-🔹 [**Projeto 3**](#) – Pequena descrição do projeto.
-
-_(Em breve mais projetos!)_
+_(Mais projetos em breve!)_
 
 ---
 
-## 🚀 Me encontre por aí  
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wanderlywrs)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wanderlywrs)  
-</div>
+## 📊 Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
+![Wanderly's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wanderlywrs&theme=radical)
+
 ---
 
-✨ Sempre aprendendo e evoluindo no mundo do desenvolvimento web!
+## 🐍 Meus Commits Recentes
+
+> ⚠️ **Certifique-se de que o workflow Snake está funcionando corretamente!**
+
+```md
+![snake gif](https://raw.githubusercontent.com/wanderlywrs/wanderlywrs/output/github-contribution-grid-snake.svg)
