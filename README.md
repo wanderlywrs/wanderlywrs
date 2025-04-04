@@ -38,10 +38,10 @@ _(Em breve mais projetos!)_
 ---
 
 ## 🚀 Me encontre por aí  
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wanderlywrs)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wanderlywrs)  
-
+</div>
 ---
 
 ✨ Sempre aprendendo e evoluindo no mundo do desenvolvimento web!
