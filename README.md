@@ -20,24 +20,7 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 
 ![Wanderly's GitHub stats](https://github-readme-stats-wheat-two-53.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
 
-## 📊 GitHub Overview
-
-- 👨‍💻 Repositórios públicos: **X**
-- 🏆 Contribuições (último ano): **Y**
-- 📅 Ativo desde: **Ano de criação do GitHub**
-- 🌱 Commits este ano: **Z+**
-- 💼 Principais linguagens: **HTML, CSS, JavaScript, React**
-
----
-
-## 🧠 Estatísticas de Desenvolvimento
-
-```text
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% - HTML
-🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40% - CSS
-🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60% - JavaScript
-🔵🔵🔵⬜⬜⬜⬜⬜⬜⬜ 30% - React.js
-
+![Top Langs](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
 
 ---
 
