@@ -24,7 +24,7 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas e respons
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Projeto 1**](#) – Pequena descrição do projeto.
+🔹 [**https://wanderlywrs.github.io/calculadora/**](#) – Pequena descrição do projeto.
 
 🔹 [**Projeto 2**](#) – Pequena descrição do projeto.
 
