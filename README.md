@@ -34,7 +34,7 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 
 🔹 [**Mascote do Android**](https://wanderlywrs.github.io/site-mascote-do-android/) – Página divertida sobre a história do Android, com layout moderno e responsivo.
 
-🔹 [**Projeto Dragon Ball Z - Dev em Dobro**](https://seuusuario.github.io/projeto-dragon-ball-z/) – Projeto desenvolvido na semana da imersão Dev em Dobro, com foco em interatividade e personagens de DBZ.
+🔹 [**Projeto Dragon Ball Z - Dev em Dobro**](https://wanderlywrs.github.io/imersao-dev-em-dobro/) – Projeto desenvolvido na semana da imersão Dev em Dobro, com foco em interatividade e personagens de DBZ.
 
 _(Mais projetos chegando, fica de olho!)_
 
