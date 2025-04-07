@@ -24,7 +24,9 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 
 ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanderlywrs&theme=2077)
 ![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanderlywrs&theme=2077)
-![Commits por dia](http://github-profile-summary-cards.vercel.app/api/cards/day-commit?username=wanderlywrs&theme=2077)
+
+http://github-profile-summary-cards.vercel.app/api/cards/day-commit?username=wanderlywrs&theme=2077
+
 
 
 ---
