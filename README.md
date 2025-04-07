@@ -18,8 +18,6 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 
 ## 📊 Estatísticas do GitHub
 
-![Wanderly's GitHub stats](https://github-readme-stats-wheat-two-53.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
 
 ---
