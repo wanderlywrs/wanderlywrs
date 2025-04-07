@@ -37,7 +37,7 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 🔹 [**Calculadora Web**](https://wanderlywrs.github.io/calculadora)  
 ➡️ Uma calculadora funcional feita com HTML, CSS e JavaScript.
 
-🔹 [**Projeto Dragon Ball Z - Imersão Dev**](https://wanderlywrs.github.io/projeto-dragon-ball-z)  
+🔹 [**Projeto Dragon Ball Z - Imersão Dev**](https://wanderlywrs.github.io/imersao-dev-em-dobro/)  
 ➡️ Projeto feito durante a imersão da Dev em Dobro, com layout e interatividade inspirado no universo de DBZ.
 
 _(Mais projetos chegando, fica de olho!)_
