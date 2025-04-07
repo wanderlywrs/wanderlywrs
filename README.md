@@ -24,7 +24,7 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas e respons
 
 ## 📌 Projetos em Destaque
 
-🔹 [**https://wanderlywrs.github.io/calculadora/**](#) – Uma calculadora simples feita com HTML, CSS e JavaScript.
+🔹 [**Calculadora**](https://wanderlywrs.github.io/calculadora/) – Uma calculadora simples feita com HTML, CSS e JavaScript.
 
 🔹 [**Projeto 2**](#) – Pequena descrição do projeto.
 
