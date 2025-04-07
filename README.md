@@ -23,9 +23,6 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 [![GitHub Streak](https://streak-stats.demolab.com?user=wanderlywrs&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Resumo](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanderlywrs&theme=2077)
-![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wanderlywrs&theme=2077)
-
-![Wanderly GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
 
 ---
 
