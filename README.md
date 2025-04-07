@@ -19,6 +19,10 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 ## 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=TEMA)
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USERNAME&theme=TEMA)
+![Commits per Day](http://github-profile-summary-cards.vercel.app/api/cards/day-commit?username=SEU_USERNAME&theme=TEMA)
+
 
 ---
 
