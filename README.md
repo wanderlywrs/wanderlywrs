@@ -28,13 +28,17 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsi
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Calculadora**](https://wanderlywrs.github.io/calculadora/) – Uma calculadora simples feita com HTML, CSS e JavaScript.
+🔹 [**Projeto Cordel Moderno**](https://wanderlywrs.github.io/projedo-cordel)  
+➡️ Um site com efeito de paralaxe baseado no cordel moderno, feito durante as aulas do Curso em Vídeo.
 
-🔹 [**Cordel Moderno**](https://wanderlywrs.github.io/projedo-cordel/) – Projeto inspirado no estilo literário popular, com efeitos de parallax e design retrô.
+🔹 [**Site Mascote do Android**](https://wanderlywrs.github.io/site-mascote-do-android)  
+➡️ Um layout divertido e responsivo homenageando o mascote do Android.
 
-🔹 [**Mascote do Android**](https://wanderlywrs.github.io/site-mascote-do-android/) – Página divertida sobre a história do Android, com layout moderno e responsivo.
+🔹 [**Calculadora Web**](https://wanderlywrs.github.io/calculadora)  
+➡️ Uma calculadora funcional feita com HTML, CSS e JavaScript.
 
-🔹 [**Projeto Dragon Ball Z - Dev em Dobro**](https://wanderlywrs.github.io/imersao-dev-em-dobro/) – Projeto desenvolvido na semana da imersão Dev em Dobro, com foco em interatividade e personagens de DBZ.
+🔹 [**Projeto Dragon Ball Z - Imersão Dev**](https://wanderlywrs.github.io/projeto-dragon-ball-z)  
+➡️ Projeto feito durante a imersão da Dev em Dobro, com layout e interatividade inspirado no universo de DBZ.
 
 _(Mais projetos chegando, fica de olho!)_
 
