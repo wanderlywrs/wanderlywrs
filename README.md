@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Wanderly!
 
-Sou um **desenvolvedor front-end** focado em criar interfaces modernas e responsivas. Atualmente, estou aprimorando minhas habilidades em **JavaScript, React.js, HTML5 e CSS3**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento web.
+Sou um **desenvolvedor front-end** focado em criar interfaces modernas, responsivas e com aquele toque caprichado. Atualmente, estou mergulhado em **JavaScript, React.js, HTML5 e CSS3**, desenvolvendo projetos práticos e aplicando boas práticas de desenvolvimento web.
 
 ---
 
@@ -15,10 +15,12 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas e respons
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 🚀 Tecnologias mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
-## 📊 Estatísticas do GitHub  
-![Wanderly's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
+
+## 📊 Estatísticas do GitHub
+
+![Wanderly's GitHub stats](https://github-readme-stats-wheat-two-53.vercel.app/api?username=wanderlywrs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=wanderlywrs&layout=compact&theme=radical)
 
 ---
 
@@ -26,29 +28,32 @@ Sou um **desenvolvedor front-end** focado em criar interfaces modernas e respons
 
 🔹 [**Calculadora**](https://wanderlywrs.github.io/calculadora/) – Uma calculadora simples feita com HTML, CSS e JavaScript.
 
-🔹 [**cordel**](https://wanderlywrs.github.io/projedo-cordel/) – Projeto Cordel Moderno.
+🔹 [**Cordel Moderno**](https://wanderlywrs.github.io/projedo-cordel/) – Projeto inspirado no estilo literário popular, com efeitos de parallax e design retrô.
 
-🔹 [**Projeto 3**](#) – Pequena descrição do projeto.
+🔹 [**Mascote do Android**](https://wanderlywrs.github.io/site-mascote-do-android/) – Página divertida sobre a história do Android, com layout moderno e responsivo.
 
-_(Em breve mais projetos!)_
+🔹 [**Projeto Dragon Ball Z - Dev em Dobro**](https://wanderlywrs.github.io/projeto-dragon-ball-z/) – Projeto desenvolvido na semana da imersão Dev em Dobro, com foco em interatividade e personagens de DBZ.
+
+_(Mais projetos chegando, fica de olho!)_
 
 ---
 
 ## 🎓 Certificados
 
-🎖️ [**Certificado 1**](#) – Pequena descrição do certificado.
+🎖️ [**Curso HTML5 e CSS3 - Curso em Vídeo**](#) – Completo, com foco em layout e semântica.
 
-🎖️ [**Certificado 2**](#) – Pequena descrição do certificado.
+🎖️ [**JavaScript Completo - Curso em Vídeo**](#) – Domínio de variáveis, funções, DOM, eventos e muito mais.
 
-🎖️ [**Certificado 3**](#) – Pequena descrição do certificado.
+🎖️ [**Imersão Dev em Dobro - Projeto Dragon Ball Z**](#) – Semana intensa de criação de projeto com HTML, CSS e JS.
 
 ---
 
-## 🚀 Me encontre por aí  
+## 🌐 Me encontre por aí
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wanderlywrs)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
 
 ---
 
-✨ Sempre aprendendo e evoluindo no mundo do desenvolvimento web!
+✨ **Sempre aprendendo, sempre evoluindo!** O objetivo é claro: crescer na área de TI e construir um futuro brilhante com código, criatividade e café ☕🚀
