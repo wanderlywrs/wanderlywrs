@@ -50,7 +50,7 @@ _(Mais projetos chegando, fica de olho!)_
 
 🎖️ [**JavaScript Completo - Curso em Vídeo**](#) – Domínio de variáveis, funções, DOM, eventos e muito mais.
 
-🎖️ [**Imersão Dev em Dobro - Projeto Dragon Ball Z**](https://drive.google.com/drive/folders/1cq4JGocy8AsGY4s7Nn7EfyzhacrHMTur) – Semana intensa de criação de projeto com HTML, CSS e JS.
+🎖️ [**Imersão Dev em Dobro - Projeto Dragon Ball Z**](https://drive.google.com/file/d/1t1jljAH-T4bEQbGqgE7l1XfV8PzRqSF2/view?usp=sharing) – Semana intensa de criação de projeto com HTML, CSS e JS.
 
 ---
 
