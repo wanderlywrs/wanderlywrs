@@ -44,16 +44,6 @@ _(Mais projetos chegando, fica de olho!)_
 
 ---
 
-## 🎓 Certificados
-
-🎖️ [**Curso HTML5 e CSS3 - Curso em Vídeo**](#) – Completo, com foco em layout e semântica.
-
-🎖️ [**JavaScript Completo - Curso em Vídeo**](#) – Domínio de variáveis, funções, DOM, eventos e muito mais.
-
-🎖️ [**Imersão Dev em Dobro - Projeto Dragon Ball Z**](https://drive.google.com/file/d/1t1jljAH-T4bEQbGqgE7l1XfV8PzRqSF2/view?usp=sharing) – Semana intensa de criação de projeto com HTML, CSS e JS.
-
----
-
 ## 🌐 Me encontre por aí
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
